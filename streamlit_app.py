@@ -1,3 +1,3 @@
-import steamlit
+import streamlit
 
-steamlit.title('checking the app')
+streamlit.title('checking the app')
